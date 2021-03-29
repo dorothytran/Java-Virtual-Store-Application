@@ -1,5 +1,6 @@
-package store;// Dorothy Tran
+// Dorothy Tran
 // Cassidy Pacada
+package store;
 
 public class Product {
     private final String name; // // Name of the product
