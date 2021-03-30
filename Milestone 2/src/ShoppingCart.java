@@ -1,5 +1,5 @@
-// Dorothy Tran 101141902 //
-// Cassidy Pacada 101143345 //
+// Dorothy Tran
+// Cassidy Pacada
 /**
  * ShoppingCart class that tracks the state of the users shopping cart
  */
