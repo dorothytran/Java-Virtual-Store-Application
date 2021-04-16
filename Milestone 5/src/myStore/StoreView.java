@@ -1,5 +1,5 @@
-//Cassidy Pacada 101143345
-//Dorothy Tran 101141902
+//Cassidy Pacada
+//Dorothy Tran
 package myStore;
 
 import java.text.DecimalFormat;
